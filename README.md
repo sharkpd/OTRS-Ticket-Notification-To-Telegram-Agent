@@ -46,7 +46,7 @@ Param 6 Value => *Additional text to be sent to the user.
 
 - Based on Generic Agent, UserComment field has been selected as chat id field  
 - An agent must start the conversation with the created telegram bot (no 1) first by using telegram.  
-- By using  https://api.telegram.org/bot<TOKEN>/getUpdates , we can obtain the chat_id of the agent.
+- By using  https://api.telegram.org/botYOURTOKENHERE/getUpdates , we can obtain the chat_id of the agent.
 
 [![download-1.png](https://i.postimg.cc/QNf20txj/download-1.png)](https://postimg.cc/14N7zyqd)	
 	
